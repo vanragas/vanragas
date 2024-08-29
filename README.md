@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/7be5559a-10ea-4038-a2dc-763cf9079043)
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/7be5559a-10ea-4038-a2dc-763cf9079043
 ">
 
 Hey there! 👋 I'm Arnab, a tech enthusiast on an exciting journey from IT support to full-stack development and cloud computing.
