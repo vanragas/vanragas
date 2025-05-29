@@ -62,6 +62,7 @@ Hey there! 👋 I'm Arnab, a tech enthusiast on an exciting journey from IT supp
 
 ## 🏆 Certifications
 
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) AWS Certified SysOps Administrator - Associate
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) AWS Certified Developer - Associate
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) AWS Certified Solutions Architect - Associate
 - ![IBM](https://img.shields.io/badge/-IBM-052FAD?style=flat-square&logo=ibm&logoColor=white) IBM Full Stack Software Developer Professional Certificate
@@ -70,7 +71,6 @@ Hey there! 👋 I'm Arnab, a tech enthusiast on an exciting journey from IT supp
 
 ## 🌱 Currently Learning
 
-- 📚 Preparing for AWS SysOps Administrator certification
 - ✍🏻 Learning 🐳 Docker, ☸️ Kubernets and </> NextJS
 - 🖥️ Enhancing my full-stack development skills
 
