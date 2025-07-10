@@ -29,7 +29,7 @@ Hey there! 👋 I'm Arnab, a tech enthusiast on an exciting journey from IT supp
 ### 🌟 Quick Highlights
 
 - 🌐 Full-stack wizard (MERN stack enthusiast)
-- ☁️ AWS Certified Developer and Solutions Architect
+- ☁️ AWS Certified Developer, Solutions Architect and SysOps Administrator
 - 🛠️ IT Support veteran transitioning to full-stack development
 - 🚀 Passionate about scalable, efficient solutions
 - 🎓 Lifelong learner, always up for a new challenge
